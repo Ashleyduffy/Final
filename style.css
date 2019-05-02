@@ -294,6 +294,13 @@ grid-template-areas:
     padding-top:10px;
     }
 
+.gallerywrapper {
+	display: grid;
+	justify-items:center;
+	grid-gap:.5em;
+	align-items:end;
+	grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+
 
 /*-----------------------Tablet Media Query------------------------*/
 @media only screen and (min-width: 480px)  {
