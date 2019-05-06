@@ -129,7 +129,7 @@ margin:auto;
 grid-area:fig2;	
 }
 figcaption{
-color:navy;
+color:black;
 padding:5px;
 font-weight:bold;
 padding:5px;
@@ -160,7 +160,7 @@ video {
 }
 
 form{
-	background-color:darkseagreen;
+	background-color#e4c1ee:;
 	width:90%;
 	margin:auto;
 	color:white;
@@ -184,10 +184,10 @@ color:black;
 }
 
 .call {
-    color:navy;
+    color:white;
     text-align:center;
     font-size:2em;
-    background-color:darkseagreen;
+    background-color:black;
     width:60%;
     padding: 5px 0 0 0;
     margin:10px auto 0 auto;
