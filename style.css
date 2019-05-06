@@ -178,8 +178,8 @@ input {
 }
 .button{
 padding:5px;
-background-color:navy;
-color:lightseagreen;
+background-color:white;
+color:black;
 	cursor:pointer;
 }
 
@@ -195,8 +195,8 @@ color:lightseagreen;
 }
 
 .phone{
-    color:darkseagreen;
-    background-color:navy;
+    color:black;
+    background-color:white;
     padding:5px;
     text-align:center;
     font-size:.75em;
